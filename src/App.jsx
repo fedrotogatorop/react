@@ -4,7 +4,10 @@ import Article from "./components/Article";
 function App() {
   return (
     <div className="App">
-      <Article />
+      {/* <Article name="Fedro" /> */}
+      <Article name="Fedro" titles={["VueJS", "NodeJS", "TypeSkript"]} />
+      <br />
+      {/* <Article name="Togatorop" titles={["ReactJS", "NextJS"]} /> */}
     </div>
   );
 }
