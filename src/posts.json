@@ -1,0 +1,17 @@
+[
+  {
+    "title": "belajar menjadi front-end developer",
+    "tags": ["react", "frontend"],
+    "date": "2023-01-01"
+  },
+  {
+    "title": "Belajar menjadi back-end developer",
+    "tags": ["node", "backend"],
+    "date": "2023-05-01"
+  },
+  {
+    "title": "Belajar menjadi fullstack developer",
+    "tags": ["reactJS", "nodeJS", "expressJS"],
+    "date": "2023-07-01"
+  }
+]
